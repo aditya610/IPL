@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Home"
+    android:id="@+id/bnhome"
+    android:icon="@drawable/ic_home_black_24dp"
+    />
+    <item
+        android:title="Auction"
+        android:id="@+id/bnauction"
+        android:icon="@drawable/img_135596"
+        />
+<item
+    android:title="Search"
+    android:id="@+id/bnsearch"
+    android:icon="@drawable/ic_search_black_24dp"
+    />
+    <item
+        android:title="More"
+        android:id="@+id/bnmore"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        />
+
+</menu>
